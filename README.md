@@ -1,2 +1,4 @@
 # gcc_git_demo
-Some new repo.
+Here is some really important info.
+
+Buyer beware!
